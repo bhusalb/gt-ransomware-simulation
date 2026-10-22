@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Simulation of Ransomware Attacks using Strategic Deception"
+type: software
+repository-code: "https://github.com/bhusalb/gt-ransomware-simulation"
+authors:
+  - family-names: Neupane
+    given-names: Roshan Lal
+  - family-names: Bhusal
+    given-names: Bishnu
+    orcid: "https://orcid.org/0000-0001-7522-5878"
+  - family-names: Neupane
+    given-names: Kiran
+preferred-citation:
+  type: conference-paper
+  title: "On Countering Ransomware Attacks Using Strategic Deception"
+  authors:
+    - family-names: Neupane
+      given-names: Roshan Lal
+    - family-names: Bhusal
+      given-names: Bishnu
+    - family-names: Neupane
+      given-names: Kiran
+    - family-names: Regmi
+      given-names: Preyea
+    - family-names: Dinh
+      given-names: Tam
+    - family-names: Marrero
+      given-names: Lilliana
+    - family-names: Saghaian N. E.
+      given-names: Sayed M.
+    - family-names: Nadendla
+      given-names: Venkata Sriram Siddhardh
+    - family-names: Calyam
+      given-names: Prasad
+  collection-title: "Decision and Game Theory for Security (GameSec 2024)"
+  publisher:
+    name: "Springer Nature Switzerland"
+  start: 149
+  end: 176
+  year: 2024
+  doi: "10.1007/978-3-031-74835-6_8"
+  notes: "Best Paper Award, GameSec 2024"
